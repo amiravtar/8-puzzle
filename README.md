@@ -9,6 +9,10 @@ this is a small aplication that has 8 puzzle and can solve it using diffrent alg
 - A* (A-star Search)
 - GBFS (Greedy Best-First Search)
 
+## Run
+```shell
+python ui.py
+```
 ## Set your custom state as goal (Optional)
 
 you can customize the goal state for the algorithm by clicking on the target buttons
